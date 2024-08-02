@@ -1,0 +1,660 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
+/*------------------------------------------HEADER-sl-1------------------------------------------------*/
+body{
+    background: #02061A;
+    height: 4976px;
+}
+.svg{
+    background: rgba(84, 197, 173, 0.95);
+    filter: blur(217px);
+    width: 590px;
+    height: 594px;
+    flex-shrink: 0;
+    position: absolute;
+    top: -245px;
+    left: -100px;
+}
+.header{
+    color: #FFF;
+    text-align: center;
+    font-family: Outfit;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-transform: capitalize;
+    display: flex;
+    justify-content: space-evenly;
+    gap: 47px;
+    list-style-type: none;
+    /*margin: 102px 187px 0 833px ;*/
+    position: absolute;
+    top: 102px;
+    left: 833px;
+    right: 187px;
+}
+.header_crypto{
+    color: #FFF;
+    text-align: center;
+    font-family: Outfit;
+    font-size: 27px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: capitalize;
+    display: flex;
+    justify-content: flex-start;
+    position: absolute;
+    top: 92px;
+    left: 192px;
+    margin: 0;
+    list-style-type: none;
+}
+/*------------------------------------------MAIN-sl-2------------------------------------------------*/
+
+.h3{
+    width: 530px;
+    /*height: 360px;*/
+    /*position: absolute;*/
+    /*top: 453px;*/
+    /*margin-left: 183px;*/
+    /*margin: 453px 0 0 auto;*/
+    display: flex;
+    gap: 31px;
+    flex-direction: column;
+    margin-top: 102px;
+}
+.h3_Des{
+    color: #FFF;
+    font-family: Outfit;
+    font-size: 60px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: capitalize;
+    width: 522px;
+    height: 233px;
+    margin: 0;
+}
+.button_1{
+    width: 256px;
+    height: 95px;
+    display: inline;
+    margin: 0;
+    border-radius: 50px;
+    background: #23263C;
+    color: #FFF;
+
+    text-align: center;
+    font-family: Outfit;
+    font-size: 27px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: uppercase;
+    border: none;
+}
+.button_2{
+    width: 256px;
+    height: 95px;
+    display: inline;
+    margin: 0;
+    border-radius: 50px;
+    background: none;
+    color: #FFF;
+
+    text-align: center;
+    font-family: Outfit;
+    font-size: 27px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: uppercase;
+    border: #23263C 3px solid;
+}
+main{
+    height: 95px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    gap: 22px;
+}
+.nft_img{
+    /*position: absolute;*/
+    /*top: 315px;*/
+    /*left: 700px;*/
+    /*right: 224px;*/
+    /*margin: 315px auto 0 0;*/
+    width: 467.417px;
+    height: 461.312px;
+    border-radius: 10px;
+    margin-bottom: 40px;
+}
+.main_1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 315px auto 0 auto;
+    padding-top: 188px;
+ }
+/*---------------------------------------------sl-3------------------------------------------------*/
+
+h4{
+    color: #FFF;
+
+    text-align: center;
+    font-family: Outfit;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: uppercase;
+    width: 238px;
+    height: 38px;
+    margin: 0 0 0 -15px;
+
+}
+.FEATURED{
+    width: 1065px;
+    height: 125px;
+    background: #23263C;
+    display: flex;
+    justify-content: space-evenly;
+    gap: 138px;
+    align-items: center;
+    color: #FFF;
+
+    text-align: center;
+    font-family: Outfit;
+    font-size: 27px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: capitalize;
+    border: 1px #5BD2BD solid;
+    margin: 8px auto 0 auto;
+}
+.sl-3{
+    width: 1065px;
+    margin: 216px auto 0 auto;
+}
+/*---------------------------------------------sl-4------------------------------------------------*/
+
+.nft_img2{
+    width: 428px;
+    height: 480px;
+}
+span{
+    color: #56CAB1;
+    font-family: Outfit;
+    font-size: 60px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 73px;
+}
+.nft_h3{
+    color: #FFF;
+
+    font-family: Outfit;
+    font-size: 60px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 73px; /* 121.667% */
+    width: 542px;
+    height: 219px;
+    margin-bottom: 0;
+    margin-top: -60px;
+}
+.sl-4{
+    display: flex;
+    justify-content: center;
+    gap: 55px;
+    margin-top: 197px;
+}
+.nft_p{
+    color: #4C99BB;
+
+    font-family: Poppins;
+    font-size: 26px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 31px; /* 119.231% */
+    width: 521px;
+    height: 62px;
+    margin-bottom: 0;
+    margin-top: 0;
+}
+.nft_p2{
+    width: 418px;
+    height: 100px;
+    color: #FFF;
+
+    font-family: Outfit;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: capitalize;
+    margin-bottom: 0;
+    margin-top: 0;
+}
+.button_3>button:first-of-type{
+    width: 126px;
+    height: 68px;
+    border-radius: 16px;
+    border: 2px #56CAB1 solid;
+    color: #FFF;
+    background: none;
+    font-family: Outfit;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: capitalize;
+    margin-bottom: 34px;
+    margin-top: 7px;
+
+}
+.button_3>button:last-of-type{
+    width: 126px;
+    height: 68px;
+    background: rgba(2, 6, 26, 0.01);
+    border-radius: 16px;
+    border: 2px #56CAB1 solid;
+    position: relative;
+    top: 30px;
+    left: -126px;
+}
+.text_button{
+    color: #FFF;
+    font-family: Outfit;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: capitalize;
+}
+.colection{
+    width: 521px;
+    height: 132px;
+    border-radius: 18px;
+    background: #3A5B6A;
+    display: flex;
+    justify-content: space-evenly;
+    gap: 44px;
+    color: #FFF;
+
+    font-family: Outfit;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: capitalize;
+    text-align: center;
+}
+/*---------------------------------------------sl-5------------------------------------------------*/
+.sl-5{
+    display: flex;
+    justify-content: center;
+}
+.text_3{
+    display: flex;
+    width: 465px;
+    height: 212px;
+    flex-direction: column;
+    justify-content: center;
+    flex-shrink: 0;
+    color: #FFF;
+    font-family: Outfit;
+    font-size: 60px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: capitalize;
+    margin-top: 434px;
+}
+.rotate_1{
+    display: flex;
+    width: 225.81px;
+    height: 46.022px;
+    transform: rotate(0);
+    flex-direction: column;
+    justify-content: center;
+    flex-shrink: 0;
+    color: #56CAB1;
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: #02061A;
+    font-family: Outfit;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: capitalize;
+    margin: 15px 0 15px 15px;
+}
+.rotate_2{
+    color: #23263C;
+    font-family: Outfit;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: uppercase;
+    width: 178.271px;
+    height: 46.022px;
+    transform: rotate(0);
+    flex-shrink: 0;
+    margin: 0 0 15px 15px;
+}
+.rotate{
+    width: 380.311px;
+    height: 466.66px;
+    transform: rotate(-25.337deg);
+    flex-shrink: 0;
+    border-radius: 10px;
+    /*background: rgba(137, 130, 130, 0.50);*/
+    border-radius: 10px;
+    mix-blend-mode: screen;
+    margin-top: 150px;
+    position: relative;
+    /*z-index: -1;*/
+    background-color: rgba(137, 130, 130, 0.50);
+    z-index: 1;
+    position: relative;
+}
+#photo{
+    border-radius: 5px;
+
+}
+.photo2{
+    width: 374.023px;
+    height: 358px;
+    background: url("img/monkey-g412399084_1280 1 (1).png") lightgray 50% / cover no-repeat;
+}
+.button_4{
+    border-radius: 100px;
+    border: 3px solid rgba(84, 197, 173, 0.95);
+    background: #1F143B;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    width: 450px;
+    height: 96px;
+    flex-shrink: 0;
+    color: #56CAB1;
+    font-family: Outfit;
+    font-size: 50px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: capitalize;
+}
+.rotate_2_p{
+    color: #FFF;
+    text-align: center;
+    font-family: Outfit;
+    font-size: 35px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: uppercase;
+}
+.rotate2{
+    width: 375px;
+    height: 507px;
+    flex-shrink: 0;
+    border-radius: 10px;
+    /*background: rgba(137, 130, 130, 0.50);*/
+    /*mix-blend-mode: screen;*/
+    margin-top: 201px;
+    background-color: rgba(137, 130, 130, 0.50);
+    z-index: 2;
+    position: relative;
+    right: 100px;
+    top: 30px;
+}
+.button_5{
+    height: 51px;
+    flex-shrink: 0;
+    border-radius: 3px;
+    border: 2px #000;
+    background: #1F143B;
+    width: 147.461px;
+    color: #52A7C6;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: #02061A;
+    font-family: Outfit;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: capitalize;
+}
+.just{
+    display: flex;
+}
+/*---------------------------------------------sl-6------------------------------------------------*/
+.text_4{
+    color: #5BD2BF;
+    margin-bottom: 4px;
+    margin-top: 234px;
+    font-family: Outfit;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: uppercase;
+}
+.h3_people{
+    color: #FFF;
+    margin-top: 0;
+    text-align: center;
+    font-family: Outfit;
+    font-size: 60px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: capitalize;
+    margin-bottom: 147px;
+}
+.h3_p{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+.block_sl6{
+    display: flex;
+    justify-content: center;
+    gap: 14px;
+}
+.block_1_2_3{
+    width: 345px;
+    height: 360px;
+    flex-shrink: 0;
+    border-radius: 10px;
+    background: #24293F;
+    position: relative;
+}
+.name{
+    color: #FFF;
+    text-align: center;
+    font-family: Outfit;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: capitalize;
+    margin-bottom: 27px;
+    margin-top: 83px;
+}
+.description{
+    color: #FFF;
+    margin-top: 0;
+    text-align: center;
+    font-family: Outfit;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: capitalize;
+}
+.sercle{
+    width: 155.375px;
+    height: 150px;
+    background: url("img/images 1.png") lightgray 50% / cover no-repeat;
+    mix-blend-mode: luminosity;
+    position: absolute;
+    top: -75px;
+    right: 95px;
+    left: 95px;
+    border-radius: 50%;
+}
+.sercle2{
+    width: 155.375px;
+    height: 150px;
+    background: url("img/Melanie Aimer - Barclays Private Bank 1.png") lightgray 50% / cover no-repeat;
+    mix-blend-mode: luminosity;
+    position: absolute;
+    top: -75px;
+    right: 95px;
+    left: 95px;
+    border-radius: 50%;
+}
+.sercle3{
+    width: 155.375px;
+    height: 150px;
+    background: url("img/Ryan Kirk Surexdirect 1.png") lightgray 50% / cover no-repeat;
+    mix-blend-mode: luminosity;
+    position: absolute;
+    top: -75px;
+    right: 95px;
+    left: 95px;
+    border-radius: 50%;
+}
+/*---------------------------------------------sl-7------------------------------------------------*/
+
+.sl_7{
+    width: 1063px;
+    height: 378px;
+    flex-shrink: 0;
+    border-radius: 20px;
+    background: linear-gradient(97deg, #1F143B -19.45%, #3C8273 103.56%);
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+    margin: 208px auto 262px auto;
+}
+.text_project{
+    color: #FFF;
+
+    text-align: center;
+    font-family: Outfit;
+    font-size: 60px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 60px; /* 100% */
+    margin-bottom: 52px;
+    margin-top: 24px;
+}
+.button_6{
+    color: #FFF;
+
+    text-align: center;
+    font-family: Outfit;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 60px; /* 150% */
+    text-transform: uppercase;
+    width: 344px;
+    height: 85px;
+    flex-shrink: 0;
+    border-radius: 50px;
+    background: #000;
+    margin-bottom: 62px;
+    margin-top: 0;
+}
+/*---------------------------------------------sl-8------------------------------------------------*/
+.sl_8{
+    display: flex;
+    justify-content: center;
+    gap: 126px;
+}
+.footer_text{
+   display: flex;
+    flex-direction: column;
+}
+#text_none{
+    text-decoration: none;
+    color: #FFF;
+    font-family: Outfit;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: capitalize;
+}
+#contact{
+    color: #FFF;
+    font-family: Outfit;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-transform: capitalize;
+}
+.li{
+    list-style-type: none;
+}
+.button_7{
+    width: 253px;
+    height: 60px;
+    flex-shrink: 0;
+    border-radius: 50px;
+    background: #3B7C70;
+    position: relative;
+    display: flex;
+    text-align: start;
+    align-items: center;
+    color: #FFF;
+    font-family: Outfit;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-transform: capitalize;
+    border: none;
+    margin-top: 9px;
+}
+.button_8{
+    width: 100px;
+    height: 58px;
+    flex-shrink: 0;
+    border-radius: 50px;
+    background: #262E48;
+    position: relative;
+    right: -152px;
+    top: -58.5px;
+    color: #FFF;
+    font-family: Outfit;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-transform: capitalize;
+    border: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
