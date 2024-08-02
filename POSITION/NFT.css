@@ -293,6 +293,17 @@ span{
     text-transform: capitalize;
     text-align: center;
 }
+.sl-4_price{
+    width: 40px;
+    height: 53px;
+    flex-shrink: 0;
+    stroke-width: 7px;
+    stroke: #56CAB1;
+    position: relative;
+    top: 15px;
+    margin-left: 10px;
+    margin-right: 14px;
+}
 /*---------------------------------------------sl-5------------------------------------------------*/
 .sl-5{
     display: flex;
